@@ -27,7 +27,7 @@ export const InfoWrapper = styled.div`
 
     @media screen and (max-width: 768px) {
         width: 100%;
-        height: 100%;
+        height: 120%;
         border-radius: 0px;
     }
 `;
