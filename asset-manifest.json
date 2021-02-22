@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcbd3597.chunk.css",
+    "main.js": "/static/js/main.b07b7c6c.chunk.js",
+    "main.js.map": "/static/js/main.b07b7c6c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3e51063f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3e51063f.js.map",
+    "static/js/2.59d888f8.chunk.js": "/static/js/2.59d888f8.chunk.js",
+    "static/js/2.59d888f8.chunk.js.map": "/static/js/2.59d888f8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bcbd3597.chunk.css.map": "/static/css/main.bcbd3597.chunk.css.map",
+    "static/js/2.59d888f8.chunk.js.LICENSE.txt": "/static/js/2.59d888f8.chunk.js.LICENSE.txt",
+    "static/media/about.9183761d.svg": "/static/media/about.9183761d.svg",
+    "static/media/cibc.2ebfde34.png": "/static/media/cibc.2ebfde34.png",
+    "static/media/contact.3be85567.svg": "/static/media/contact.3be85567.svg",
+    "static/media/memoji.9c82f1aa.png": "/static/media/memoji.9c82f1aa.png",
+    "static/media/project1.6c18ab9a.svg": "/static/media/project1.6c18ab9a.svg",
+    "static/media/project2.bff38eb1.svg": "/static/media/project2.bff38eb1.svg",
+    "static/media/project3.68a58ecd.svg": "/static/media/project3.68a58ecd.svg",
+    "static/media/qac.e9097752.jpg": "/static/media/qac.e9097752.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e51063f.js",
+    "static/js/2.59d888f8.chunk.js",
+    "static/css/main.bcbd3597.chunk.css",
+    "static/js/main.b07b7c6c.chunk.js"
+  ]
+}
