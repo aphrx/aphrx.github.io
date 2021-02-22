@@ -7,6 +7,7 @@ export const InfoContainer = styled.div`
     padding-top: 5%;
     @media screen and (max-width: 768px) {
         padding: 100px 0;
+        padding-top: 0%;
     }
 `;
 
@@ -26,6 +27,7 @@ export const InfoWrapper = styled.div`
 
     @media screen and (max-width: 768px) {
         width: 100%;
+        height: 100%;
         border-radius: 0px;
     }
 `;
@@ -66,7 +68,8 @@ export const Heading = styled.h1`
     font-weight: 600;
     color: '#frf8fa';
 
-    @media screen and (max-width: 480px) {
+    @media screen and (max-width: 768px) {
+        padding-top: 20px;
         font-size: 32px;
     }
 `;

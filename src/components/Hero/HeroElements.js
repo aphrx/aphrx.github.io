@@ -48,10 +48,12 @@ export const HeroH1 = styled.h1`
     text-align: left;
 
     @media screen and (max-width: 768px){
+        text-align: center;
         font-size: 40px;
     }
 
     @media screen and (max-width: 480px){
+        text-align: center;
         font-size: 32px;
     }
 
@@ -64,10 +66,13 @@ export const HeroP = styled.p`
     text-align:left;
 
     @media screen and (max-width: 768px){
+        
+        text-align: center;
         font-size: 22px;
     }
 
     @media screen and (max-width: 480px){
+        text-align: center;
         font-size: 18px;
     }
 `;
