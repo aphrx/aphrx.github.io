@@ -22,6 +22,8 @@ const Hero = () => {
                             2000,
                             'I like to work out!',
                             2000,
+                            'I like to play board games!',
+                            2000,
                         ]} />
 
                 </HeroP>
