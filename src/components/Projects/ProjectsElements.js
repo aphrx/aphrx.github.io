@@ -80,5 +80,5 @@ export const ProjectsH2 = styled.h2`
 
 export const ProjectsP = styled.p`
     font-size: 0.8rem;
-    text-align: justify;
+    text-align: center;
 `;
