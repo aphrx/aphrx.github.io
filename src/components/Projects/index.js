@@ -23,7 +23,7 @@ const ProjectsSection = () => {
                 <ProjectsCard>
                     <ProjectsIcon src={Icon3} />
                     <ProjectsH2>CARLA HIL</ProjectsH2>
-                    <ProjectsP>This project is attempting to integrate real hardware used in cars to connect with CARLA to create a Hardware-In-The-Loop environment.</ProjectsP>
+                    <ProjectsP>This project is attempting to integrate real hardware used in cars to connect with the CARLA simulator to create a Hardware-In-The-Loop environment.</ProjectsP>
                 </ProjectsCard>
             </ProjectsWrapper>
         </ProjectsContainer>
