@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-terminal/static/css/main.1d18825f.css",
-    "main.js": "/react-terminal/static/js/main.47e7b2bf.js",
-    "index.html": "/react-terminal/index.html",
-    "main.1d18825f.css.map": "/react-terminal/static/css/main.1d18825f.css.map",
-    "main.47e7b2bf.js.map": "/react-terminal/static/js/main.47e7b2bf.js.map"
+    "main.css": "/static/css/main.1d18825f.css",
+    "main.js": "/static/js/main.47e7b2bf.js",
+    "index.html": "/index.html",
+    "main.1d18825f.css.map": "/static/css/main.1d18825f.css.map",
+    "main.47e7b2bf.js.map": "/static/js/main.47e7b2bf.js.map"
   },
   "entrypoints": [
     "static/css/main.1d18825f.css",
