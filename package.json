@@ -1,6 +1,6 @@
 {
   "name": "react-interactive-terminal",
-  "homepage": "https://aphrx.github.io",
+  "homepage": "https://aphrx.ca",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,8 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "add-domain": "echo \"aphrx.ca\" > build/CNAME",
+    "deploy": "npm run add-domain && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

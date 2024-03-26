@@ -2,16 +2,19 @@
 .terminal {
     background-color: #1e1e1e;
     color: #a5a5a5;
-    padding: 10px; /* Reduced padding for smaller screens */
+    padding: 10px;
     font-family: 'Consolas', 'Courier New', Courier, monospace;
     min-height: 100vh;
+    height: auto;
     width: 100%;
     box-sizing: border-box;
-    overflow-y: auto;
+    overflow-y: auto; /* This should enable vertical scrolling */
     text-align: left;
     line-height: 1.5;
-    font-size: 16px; /* Base font size, consider making it smaller on very small screens */
-  }
+    font-size: 16px;
+    max-height: 100vh; /* Ensure terminal cannot grow beyond viewport height */
+    overflow-y: auto;
+}
   
   /* Ensure content is readable and accessible on smaller screens */
   @media (max-width: 600px) {
@@ -44,6 +47,10 @@
     color: #87d787;
   }
   
+  .pre-wrap {
+    white-space: pre-wrap;
+  }
+
   .terminal-input {
     background-color: transparent;
     border: none;
